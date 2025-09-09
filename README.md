@@ -1,4 +1,4 @@
-# Demo AI Similarities - 4D Customer Duplicate Detection
+# 4D Demo AI Similarities
 
 A demonstration project showcasing how to use AI-powered vector embeddings to find similar customers in a 4D database application. This project leverages the 4D AI Kit to detect potential duplicate customers based on semantic similarity rather than exact matches.
 
@@ -94,7 +94,7 @@ This project is provided as-is for educational and demonstration purposes.
 ## 🙏 Acknowledgments
 
 - Built with [4D](https://4d.com) database platform
-- Powered by [4D AI Kit](https://github.com/4d/4D-AI-Kit)
+- Powered by [4D AI Kit](https://github.com/4d/4D-AIKit)
 - Uses OpenAI and Ollama for AI embeddings and generative AI
 - Demonstrates modern AI integration in database applications
 
